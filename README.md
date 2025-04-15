@@ -1,7 +1,6 @@
 # TSwR_projekt 2025
 
-Projekt zakłada stworzenie funkcji imitującej działanie Lidar’u umieszczonego na formule f1:10. Funkcja ta na podstawie mapy oraz położenia i orientacji będzie odczytywać odległości formuły od krawędzi toru. Zwróci wartości dla kolejnych wiązek wysyłanych pod kątem z zakresu -90 do 90 stopni. Na tej podstawie sieć neuronowa zostanie nauczona aby pojazd mógł się lokalizować wykorzystując bieżące pomiary, bez konieczności wcześniejszego wgrywania mapy toru.
-
+Projekt zakłada stworzenie funkcji imitującej działanie Lidar’u umieszczonego na formule f1:10. Funkcja ta na podstawie mapy oraz położenia i orientacji będzie odczytywać odległości formuły od krawędzi toru. Zwróci wartości dla kolejnych wiązek wysyłanych pod kątem z zakresu -90 do 90 stopni. Na tej podstawie sieć neuronowa zostanie nauczona aby pojazd mógł się lokalizować wykorzystując bieżące pomiary, bez konieczności wcześniejszego wgrywania mapy toru oraz znajomości dokładnego położenia. Działanie programu zostanie przetestowane pod kątem skuteczności poruszania się pojazdu w torze oraz czasu potrzebnego na obliczenie pozycji i orientacji w zależności od ilości wiązek lidara oraz rozdzielczości mapy.
 
 
 
