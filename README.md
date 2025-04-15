@@ -5,7 +5,7 @@ Projekt zakłada stworzenie funkcji imitującej działanie Lidar’u umieszczone
 
 
 
-Całę środowisko z symulacją jest tutaj:
+Całe środowisko z symulacją ForzaETH jest tutaj:
 https://github.com/ForzaETH/race_stack
 
 Filtr cząsteczkowy / biblioteka rangelibc
@@ -13,9 +13,9 @@ https://github.com/ForzaETH/particle_filter
 
 
 
-*Zadanie to zrobienie funkcji, która na podstawie biblioteki rangelibc, pozycji i orientacji auta oraz mapy zwróci macierz wiazek lidara.
+* Zadanie to zrobienie funkcji, która na podstawie biblioteki rangelibc, pozycji i orientacji auta oraz mapy zwróci macierz wiazek lidara.
 
-*pomiar czasu przeliczania różnej liczby wiązek lidara (różna liczba wiązek) na odległości
+* pomiar czasu przeliczania różnej liczby wiązek lidara (różna liczba wiązek) na odległości
 
 * funkcja do trenowania autka w symualcji:
 	- na wejściu: położenie auta z symulacji x,y, kąt obrotu/orientacja phi, mapa M --- f(x,y,phi,M)
